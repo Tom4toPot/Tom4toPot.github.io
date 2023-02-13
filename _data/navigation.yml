@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Blog"
-    url: /category-archive/
+    url: /year-archive/
 
   # - title: "Research"
   #   url: /research/
@@ -24,8 +24,8 @@ main:
   - title: "Career"
     url: /career/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /portfolio/
 
 #  - title: "Road trip"
 #    url: /travel/
