@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **University of Wisconsin-Madison**, Ph.D in Electrical and Computer Engineering, Dec 2023(expected)
+* **University of Wisconsin-Madison**, Ph.D in Electrical and Computer Engineering, Dec 2023 (expected)
 * **University of Wisconsin-Madison**, M.S. in Electrical and Computer Engineering, May 2019
 * **Fudan University**, B.Eng. in Communication Engineering, June 2017
 
@@ -19,25 +19,26 @@ Work experience
 ======
 * Summer 2022: Data Science Intern
   * [Riot Games](https://www.riotgames.com/en)
+  * As a Data Science Intern with the League Data Central team, I gained valuable experience in data analytics, machine learning engineering, and communication. Specifically:
+    * Data Analytics: Utilized Apache Spark on Databricks platform to query and analyze large-scale player data, enabling data-driven decision-making.
+    * Machine Learning Engineering: Designed and built a decision-making pipeline using MLFlow and Airflow, optimizing data processing and model training workflows.
+    * Communication: Effectively communicated with technical mentors and stakeholders, presenting results using visualization tools such as Tableau.
   * Supervisor: [Harry Papadimitriou](https://www.linkedin.com/in/charalampospapadimitriou/)
-  * As a Data Science Intern in League Data Central team, I have achieved and learned many things:
-    * **Data Analytics**: Query and analyze large scale player data with Apache Spark on Databricks platform.
-    * **Machine Learning Engineer**: Build and design a desicion making pipeline with MLFlow and Airflow.
-    * **Communications**: Communicate effectively with technical mentor and other stakeholders. Present results with visualization tools including Tableau.
 
 * Summer 2021: Machine Learning Intern
   * [Text IQ](https://www.relativity.com/data-solutions/textiq/) (now Relativity)
+  * As a Machine Learning Intern in R&D team in Text IQ, I have successfully shipped a product [**Unconsious Bias Detector**](https://relativity.com/company/commitments/ai-for-good/) as well as learned the following things:
+    * Data Scraping: Developed an annotated dataset for a project using data scraping and augmentation techniques.
+    * Data Science: Designed and analyzed NLP models for Unconscious Bias Detection, incorporating requirements and feedback from the project manager.
+    * Project Management: Collaborated with team members to successfully ship the Unconscious Bias Detector, demonstrating my ability to work effectively in a team setting.
   * Supervisor: [Jasneet Sabharwal](https://www.linkedin.com/in/jasneetsabharwal/)
-  * As a Machine Learning Intern in R&D team in Text IQ, I have shipped a project [**Unconsious Bias Detector**](https://relativity.com/company/commitments/ai-for-good/) as well as done the following things:
-    * **Data Scraping**: Build a large annotated dataset with data scraping based on a relatively small dataset.
-    * **Data Science**: Design and analyze NLP models based on requirements and feedbacks from project manager.
-  
-Skills
+
+Skills  
 ======
-* **Machine Learning**: Natural Language Processing(main interest), Image Processing, Time Series Data Analysis
+* **Machine Learning**: Natural Language Processing (main interest), Image Processing, Time Series Data Analysis
 * **Languages**: Python, SQL, Mathematica, C++
 * **Libaries and Platforms**: PyTorch, Pandas, scikit-learn, Databricks, Airflow, Tableau 
-* **Natural Languages**: Chinese(native), English(fluent), Japanese(N2-certificated), German(A2-certificated)
+* **Natural Languages**: Chinese (native), English (fluent), Japanese (N2-certificated), German (A2-certificated)
 
 Publications
 ======
