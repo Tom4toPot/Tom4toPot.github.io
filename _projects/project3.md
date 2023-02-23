@@ -4,3 +4,6 @@ excerpt: "Developed a real-time formant tracking program with GUI using signal p
 collection: portfolio
 ---
 
+Participated in the early stage of Voystick for Blab Lab at UW-Madison. 
+
+Project website: [research](https://blab.wisc.edu/research/)

@@ -15,5 +15,4 @@ whom I pursue my studies on the application of machine learning. With a strong i
 Before started my PhD, I received my master's degree from the Department of Electrical and Computer Engineering at UW-Madison. I worked with [Prof. Po-Ling Loh](https://www.dpmms.cam.ac.uk/~pll28/), studying anomalies detection and robost statistics, with several projects in nuclear field.
 Before that, I studied Communication Engineering at [Fudan University](https://www.fudan.edu.cn/en/) in Shanghai, China.
 
-Please check my [CV](/cv/) and [projects](/projects/) page to learn about my skills. Also check out my [career](/career/) page for more details about my career interests and experiences.
-
+Please check my [CV](/cv/) page to learn more about my skills. 

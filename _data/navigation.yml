@@ -7,6 +7,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Publications"
+  url: /publication/
+
   - title: "Blog"
     url: /categories/
 
