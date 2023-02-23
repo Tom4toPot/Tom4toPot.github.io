@@ -37,7 +37,7 @@ Skills
 ======
 * **Machine Learning**: Natural Language Processing (main interest), Image Processing, Time Series Data Analysis
 * **Languages**: Python, SQL, Mathematica, C++
-* **Libaries and Platforms**: PyTorch, Pandas, scikit-learn, Databricks, Airflow, Tableau 
+* **Libraries and Platforms**: PyTorch, Pandas, scikit-learn, github, AWS, Databricks, Airflow, Tableau 
 * **Natural Languages**: Chinese (native), English (fluent), Japanese (N2-certificated), German (A2-certificated)
 
 Publications
